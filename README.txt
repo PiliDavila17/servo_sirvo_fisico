@@ -1,4 +1,4 @@
-# Paquete `servo_sirvo_fisico`
+#Paquete `servo_sirvo_fisico`
 
 Este paquete en ROS 2 proporciona los nodos y recursos necesarios para controlar y localización de un Puzzlebot físico equipado con sensores (LIDAR y cámara) y ruedas impulsadas por motores. A continuación se describe qué funcionalidades reales ofrece, cómo está organizado y cómo utilizarlo.
 
